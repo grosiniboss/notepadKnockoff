@@ -1,0 +1,5 @@
+E:\noteswip\winUI1.pdb
+E:\noteswip\winUI1.dll.config
+E:\noteswip\Microsoft.WindowsAppRuntime.Bootstrap.dll
+E:\noteswip\resources.pri
+E:\noteswip\winUI1.exe

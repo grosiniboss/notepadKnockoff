@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# projects\\winUI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|d:\\c# projects\\winui1\\winui1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|solutionrelative:winui1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|d:\\c# projects\\winui1\\winui1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|solutionrelative:winui1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|d:\\c# projects\\winui1\\winui1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|solutionrelative:winui1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|d:\\c# projects\\winui1\\winui1\\winui1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|solutionrelative:winui1\\winui1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|d:\\c# projects\\winui1\\winui1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|solutionrelative:winui1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|d:\\c# projects\\winui1\\winui1\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{9FB98CFE-B90B-4AE9-80CB-E66325FB65EE}|winUI1\\winUI1.csproj|solutionrelative:winui1\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# projects\\winUI1\\winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# projects\\winUI1\\winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 150,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "RelativeDocumentMoniker": "winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "RelativeToolTip": "winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\App.g.i.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T11:02:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "winUI1.csproj",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\winUI1.csproj",
+              "RelativeDocumentMoniker": "winUI1\\winUI1.csproj",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\winUI1.csproj",
+              "RelativeToolTip": "winUI1\\winUI1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-15T10:44:56.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "winUI1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "winUI1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T11:48:12.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "winUI1\\App.xaml.cs",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\App.xaml.cs",
+              "RelativeToolTip": "winUI1\\App.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T11:48:01.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\App.xaml",
+              "RelativeDocumentMoniker": "winUI1\\App.xaml",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\App.xaml",
+              "RelativeToolTip": "winUI1\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-30T11:47:57.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "winUI1\\MainWindow.xaml",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\MainWindow.xaml",
+              "RelativeToolTip": "winUI1\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-30T11:47:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "RelativeToolTip": "winUI1\\obj\\x86\\Debug\\net6.0-windows10.0.19041.0\\win10-x86\\MainWindow.g.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T12:28:02.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\C# projects\\winUI1\\winUI1\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "winUI1\\Package.appxmanifest",
+              "ToolTip": "D:\\C# projects\\winUI1\\winUI1\\Package.appxmanifest",
+              "RelativeToolTip": "winUI1\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-01-30T12:04:47.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

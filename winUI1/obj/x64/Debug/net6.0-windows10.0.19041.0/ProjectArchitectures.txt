@@ -1,0 +1,1 @@
+D:\C# projects\winUI1\winUI1\winUI1.csproj;x64

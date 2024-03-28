@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsqTNpP+n2h+l9qtPnvqkpATlCAQ7p97WzcMnkubPq6PmS/YFmPabj8iq6znFRieOU4Gmb8de59AV12lHH0Lgw==",
+  "success": true,
+  "projectFilePath": "D:\\C# projects\\winUI1\\winUI1\\winUI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.28\\microsoft.netcore.app.runtime.win-x86.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.28\\microsoft.netcore.app.runtime.win-x64.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.28\\microsoft.netcore.app.runtime.win-arm64.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.28\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.28\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.28\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.28\\microsoft.aspnetcore.app.runtime.win-x86.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.28\\microsoft.aspnetcore.app.runtime.win-x64.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.28\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.28.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": []
+}
